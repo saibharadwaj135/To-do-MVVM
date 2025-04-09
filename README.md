@@ -26,14 +26,6 @@ A simple and minimal To-do list application built with **SwiftUI**, using **MVVM
 - Nice onboarding feel with **animated empty state**  
 - Clean and understandable **MVVM design**
 
-## 🛠️ How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/To-do-MVVM.git
-2. Open the project in Xcode
-
-3. Build and run on simulator or device
    
 Created with ❤️ by Sai Bharadwaj Adapa
 
